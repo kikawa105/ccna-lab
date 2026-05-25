@@ -49,3 +49,11 @@ interface FastEthernet0/1
  spanning-tree portfast
 ```
 <img width="216" height="372" alt="スクリーンショット 2026-05-25 12 18 31" src="https://github.com/user-attachments/assets/b16a34a8-780a-4c3f-9cf4-9abe10994bc3" />
+
+## 学んだこと
+
+- Voice VLAN と Access VLAN は同時設定可能
+- Cisco IP Phone はPCを配下接続できる
+- Extended VLAN(1006〜4094) は VTP Server mode では作成不可
+- vtp mode transparent に変更することで Extended VLAN 作成可能
+- show vlan brief / show running-config で設定確認可能
