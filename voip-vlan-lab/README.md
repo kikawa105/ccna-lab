@@ -47,9 +47,4 @@ interface FastEthernet0/1
  switchport mode access
  switchport voice vlan 2001
  spanning-tree portfast
-
-<img width="465" height="359" alt="スクリーンショット 2026-05-25 12 07 44" src="https://github.com/user-attachments/assets/96c227a4-44a1-49ee-922c-4a9e6a42ce26" />
-
-
-
-
+```
